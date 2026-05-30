@@ -114,7 +114,7 @@ T:28.4C H:62%
 
 This project is documented in a research paper focused on the feasibility of low-cost AQI monitoring systems. The paper covers sensor analysis, limitations of budget hardware, and real-world testing.
 
-📄 Find it here: [`/paper`](./paper/)
+📄 Find it here: [`/paper`](finalreport_digital.pdf)
 
 ---
 
