@@ -1,4 +1,4 @@
-# Air Quality Monitoring System 🌫️
+# Air Quality Monitoring System 
 
 A low-cost air quality monitoring system built with Arduino, using an MQ-135 gas sensor and a DHT11 temperature & humidity sensor. The goal was simple — build something that actually works without spending a ton of money on commercial AQI monitors.
 
